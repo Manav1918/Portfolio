@@ -51,8 +51,14 @@ https://www.youtube.com/watch?v=-dcyPlwe8uI
 ---
 
 ## Computer Vision (OpenCV, PyQt5)
+- **Drowsiness Detection System (OpenCV + face_recognition )**
+https://youtu.be/6xTYU_948HI?si=l5XXDP5aZCZUyhvt
+- **AI Enabled Doctor Appointment System**
+  https://youtu.be/gICtBhm8-w8?si=-J8c6j_6nMtFbHsm
 - **Image to Sketch Converter using Python (OpenCV + PyQt5 + NumPy)**
 https://www.youtube.com/watch?v=Xhl7gGRqxoE
+- **Screen Recorder App in Python**
+https://youtu.be/Pbv0QES7Is8?si=YJoNIbEYm8TPkYJS
 
 ---
 
@@ -73,6 +79,12 @@ https://www.youtube.com/@CID_Official/playlists
 - **Channel (complete videos list)**
   https://www.youtube.com/@CID_Official/videos
 
+## Advanced Pipeline Engineering calcualtion software (NumPy + SciPY + MatPlotLib + Pandas)**
+- Spectrum 3D
+- Flow Assurace
+- Wall Thickness
+- On bottom stability and many more.
+> Visit link to access all pipeline engineering software made by me : https://www.engineeringsk.com/pipeline-design-engineering-software/
 ---
 
 ## Contact
